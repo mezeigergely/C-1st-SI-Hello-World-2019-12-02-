@@ -1,0 +1,11 @@
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.exe
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.deps.json
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.runtimeconfig.json
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.runtimeconfig.dev.json
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.dll
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\bin\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.pdb
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\obj\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.csprojAssemblyReference.cache
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\obj\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\obj\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.AssemblyInfo.cs
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\obj\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.dll
+C:\Users\Geris\HelloWorld-SI-Assignment\dotnet-HW-SI-ASSIGNMENT\obj\Debug\netcoreapp3.1\dotnet-HW-SI-ASSIGNMENT.pdb
